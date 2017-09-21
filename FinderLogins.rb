@@ -1,6 +1,4 @@
 # Finder_Logins
-Localiza paginas de logins em sites
-
 require 'net/http'
 banner = <<BANNER
                                   ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
